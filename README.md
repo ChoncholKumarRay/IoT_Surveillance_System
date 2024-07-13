@@ -16,26 +16,38 @@ _Figure: ESP32 CAM Board to PIR Motion Sensor Connection_
 ### ESP32 Camera Module
 
 This module has built-in Wi-Fi support. It can capture images and send them to the user’s Telegram account through Telegram Bot.
-<img src="images/esp32.png" alt="ESP32 Camera Module" width="150"/>
-_Figure: ESP32 Camera Module_
+<p align="center">
+    <img src="images/esp32.png" alt="ESP32 Camera Module" width="150"/>
+    <br>
+    <i>Figure: ESP32 Camera Module</i>
+</p>
 
 ### FTDI USB to TTL Serial Converter
 
 Used for programming the ESP32 Camera Module.
-<img src="images/ftdi-to-ttl.jpeg" alt="FTDI USB to TTL Serial Converter Adapter (FT232RL)" width="150"/>
-_Figure: FTDI USB to TTL Serial Converter Adapter (FT232RL)_
+<p align="center">
+    <img src="images/ftdi-to-ttl.jpeg" alt="FTDI USB to TTL Serial Converter Adapter (FT232RL)" width="150"/>
+    <br>
+    <i>Figure: FTDI USB to TTL Serial Converter Adapter (FT232RL)</i>
+</p>
 
 ### PIR Motion Sensor
 
 Detects motion within its range and triggers the camera.
-<img src="images/pir-motion.jpg" alt="HC-SR501 PIR Motion Sensor Module" width="150"/>
-_Figure: HC-SR501 PIR Motion Sensor Module_
+<p align="center">
+    <img src="images/pir-motion.jpg" alt="HC-SR501 PIR Motion Sensor Module" width="150"/>
+    <br>
+    <i>Figure: HC-SR501 PIR Motion Sensor Module</i>
+</p>
 
 ### Breadboard and Jumper Wires
 
 Facilitate connections between components.
-<img src="images/breadboard-jumper.jpg" alt="Breadboard and Jumper Wires" width="150"/>
-_Figure: Breadboard and Jumper Wires_
+<p align="center">
+    <img src="images/breadboard-jumper.jpg" alt="Breadboard and Jumper Wires" width="150"/>
+    <br>
+    <i>Figure: Breadboard and Jumper Wires</i>
+</p>
 
 ## How to Build the System
 
