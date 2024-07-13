@@ -4,14 +4,14 @@
 
 ### System Diagram
 
-![TTL to ESP32 CAM Connection](images/ttl-to-esp.jpg)
+![TTL to ESP32 CAM Connection](images/esp-to-ttl.png)
 _Figure: TTL to ESP32 CAM Connection_
 
 ![ESP32 CAM Board to PIR Motion Sensor Connection](images/esp-to-motion.jpg)
 _Figure: ESP32 CAM Board to PIR Motion Sensor Connection_
 
 
-## Description of Components
+## Description of the Components
 
 ### ESP32 Camera Module
 
@@ -42,7 +42,7 @@ Detects motion within its range and triggers the camera.
 
 ### Breadboard and Jumper Wires
 
-Facilitate connections between components.
+Making connections between components and organize them.
 <p align="center">
     <img src="images/breadboard-jumper.jpg" alt="Breadboard and Jumper Wires" width="150"/>
     <br>
